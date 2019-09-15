@@ -2,6 +2,6 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
 ReactDOM.render(
-  <div> バナナのナス、バナナス </div>,
+  <div> 贅沢な名前だねぇ </div>,
   document.getElementById('root')
 );
