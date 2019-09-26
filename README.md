@@ -1,4 +1,5 @@
 # yubaba-generator
+React(+ TSX)開発ボイラープレート
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ad3621e6-b27f-426e-89d9-21ba19e3a036/deploy-status)](https://app.netlify.com/sites/practical-volhard-5c9dc0/deploys)
 ## 開発準備
 1. `git clone https://github.com/shuta13/yubaba-generator.git`
